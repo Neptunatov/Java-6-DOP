@@ -1,2 +1,2 @@
-"testRegisteredUnderLimit;";"5000;";"true;";"150;"
-"testUnregisteredUnderLimit;";"5000;";"false;";"50;"
+testRegisteredUnderLimit,5000,true,150
+testUnregisteredUnderLimit,5000,false,50
